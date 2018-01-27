@@ -5,5 +5,8 @@
   "main": "src/index.js",
   "repository": "git@github.com:publiclab/multibot.git",
   "author": "Ujjwal Sharma <usharma1998@gmail.com>",
-  "license": "GPL-3.0"
+  "license": "GPL-3.0",
+  "dependencies": {
+    "irc": "^0.5.2"
+  }
 }

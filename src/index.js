@@ -1,7 +1,9 @@
-const Chatbot = require('./chatbot');
-const Behavior = require('./models/behavior');
+const Bot = require("./bot");
+const { Behaviour } = require("./Behaviour");
+const { Interface } = require("./Interface");
 
 module.exports = {
-  Chatbot,
-  Behavior
+  Bot,
+  Behaviour,
+  Interface
 };
