@@ -6,6 +6,4 @@ class Behaviour {
   }
 }
 
-module.exports = {
-  Behaviour
-};
+module.exports = Behaviour;

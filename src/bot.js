@@ -1,5 +1,5 @@
-const { Interface } = require("./Interface");
-const { Behaviour } = require("./Behaviour");
+const Interface = require("./Interface");
+const Behaviour = require("./Behaviour");
 const event = require("./eventBus");
 
 class Bot {

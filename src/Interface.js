@@ -15,6 +15,4 @@ class Interface {
     init() { }
 }
 
-module.exports = {
-    Interface
-};
+module.exports = Interface;
